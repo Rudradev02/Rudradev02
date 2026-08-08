@@ -78,8 +78,7 @@ AI/LLM APIs • Git • GitHub • VS Code • Docker • MCP
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Rudradev02
-* LinkedIn: [Add your LinkedIn profile]
-* Portfolio: [Add your portfolio link]
+* LinkedIn: linkedin.com/in/rudra-kumbhani26274a37a
 
 ---
 
