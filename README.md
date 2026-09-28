@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rudra Kumbhani 👋</h1>
-<h3 align="center">Junior Full-Stack Python Developer · Ahmedabad, India</h3>
+<h3 align="center">Junior Full-Stack Python Developer</h3>
 
 <p align="center">
   <a href="mailto:rudrakumbahni02@gmail.com">📧 Email</a> &nbsp;•&nbsp;
