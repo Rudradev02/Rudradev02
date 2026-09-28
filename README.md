@@ -1,85 +1,61 @@
-<h1 align="center">Hi, I'm Rudra Kumbhani 👋</h1>
-<h3 align="center">Junior Full-Stack Python Developer</h3>
+<h1 align="center">Hey, I'm Rudra 👋</h1>
 
 <p align="center">
-  <a href="mailto:rudrakumbahni02@gmail.com">📧 Email</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/rudra-kumbhani-26274a37a">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://expense-tracker-web-app-eight.vercel.app/login">🚀 Live Project</a>
+  Python & full-stack developer in the making, based in Ahmedabad, Gujarat 🇮🇳<br>
+  I like building things end to end: the backend, the UI, and the boring glue in between.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-kumbhani/"><img src="https://img.shields.io/badge/LinkedIn-Rudra%20Kumbhani-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Python%20%2F%20Full--Stack%20roles-2ea44f" alt="Open to work">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 A bit about me
 
-- 🎓 Diploma in **Information Technology** at L.J. Polytechnic, Ahmedabad
-- 💼 Completed a **Python/Django internship** at Infolabz IT Services Pvt. Ltd.
-- 🛠️ Shipped **5 projects** across web, mobile, and desktop — React, Flask, Django, React Native
-- 🤖 Passionate about **backend development**, **REST APIs**, and **AI-assisted tooling**
-- 📍 Based in Gujarat, India
+- 🎓 Diploma in Information Technology at **L.J. Polytechnic, Ahmedabad** (Class of 2026)
+- 💼 Finished an internship at **Infolabz IT Services**
+- 📜 Certifications from **IBM, Google, Microsoft and Packt**
+- 🎯 Looking for a **Python / Full-Stack Developer** role
+- 🏆 Competing in **Smart India Hackathon 2026**
+- 🛒 On the side, I run **Smart Pick Finds**, an Amazon affiliate brand around smart home gadgets
 
----
+## 🔭 What I'm working on right now
 
-## 🚀 Featured Projects
+**[CodeSentinel](https://github.com/Rudradev02/CodeSentinel)** is my biggest project so far: an AI-assisted code auditor for security and architecture problems in Python and JS/TS codebases.
 
-| Project | Tech Stack | Links |
-|---|---|---|
-| **Expense Tracker Web App** | React · Vite · Flask · SQLAlchemy · SQLite | [Live](https://expense-tracker-web-app-eight.vercel.app/login) · [GitHub](https://github.com/Rudradev02/expense-tracker-web-app) |
-| **Inventory & Sales Manager** | Python · Django · Bootstrap · Chart.js · SQLite | [GitHub](https://github.com/Rudradev02/Inventory-Sales-Manager) |
-| **Pinterest AI Assistant** | Python · CustomTkinter · Ollama · Local LLMs | [GitHub](https://github.com/Rudradev02/Pinterest-AI-Assistant) |
-| **Lency – Photo Booking App** | React Native · TypeScript · Expo · Node.js · Express | [GitHub](https://github.com/Rudradev02/Lency-Photo-Bookings-App) |
+The idea is that the static analysis does the actual finding (AST parsing, taint tracking across function calls, a dependency graph), and an LLM is only used afterwards to explain findings and suggest fixes. It never decides what counts as a vulnerability. It ships with a CLI, SARIF output for CI, a FastAPI backend, and a React dashboard.
 
----
+## 🚀 Projects
 
-## 🛠️ Tech Stack
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**CodeSentinel**](https://github.com/Rudradev02/CodeSentinel) | Evidence-first security & architecture auditor with LLM-assisted triage | Python, FastAPI, Celery, PostgreSQL, React, TypeScript |
+| [**Expense Tracker**](https://github.com/Rudradev02/expense-tracker-web-app) | Full-stack expense tracking web app, live on Vercel | JavaScript |
+| [**Inventory & Sales Manager**](https://github.com/Rudradev02/Inventory-Sales-Manager) | Inventory and sales tracking app | Django, TypeScript |
+| [**Lency Photo Bookings**](https://github.com/Rudradev02/Lency-Photo-Bookings-App) | Mobile app for booking photo sessions | React Native, Expo, TypeScript |
+| [**Pinterest AI Assistant**](https://github.com/Rudradev02/Pinterest-AI-Assistant) | Desktop tool for creating Pinterest content | Python |
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 🛠️ Tech I use
 
-**Backend**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+## 📬 Let's connect
 
-**Databases & Tools**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+I'm happy to chat about backend projects, security tooling, or anything hackathon-related.
+The easiest way to reach me is [LinkedIn](https://www.linkedin.com/in/rudra-kumbhani/).
 
----
-
-## 📜 Certifications
-
-- 🏅 Python for Data Science, AI & Development — **IBM** (Feb 2026)
-- 🏅 Generative AI: Prompt Engineering Basics — **IBM** (Feb 2026)
-- 🏅 JavaScript DOM: Interactive and Dynamic Web Pages — **Packt** (Aug 2025)
-- 🏅 Getting Started with Git and GitHub — **IBM** (Mar 2025)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudradev02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudradev02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to Python Developer and Full-Stack Developer internships and fresher roles.</i><br/>
-  <a href="mailto:rudrakumbahni02@gmail.com">📬 rudrakumbahni02@gmail.com</a>
-</p>
+<p align="center"><i>Always building something. Usually breaking it first. 🔧</i></p>
