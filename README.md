@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Diploma in **Information Technology** at L.J. Polytechnic, Ahmedabad (Expected 2026)
+- 🎓 Diploma in **Information Technology** at L.J. Polytechnic, Ahmedabad
 - 💼 Completed a **Python/Django internship** at Infolabz IT Services Pvt. Ltd.
 - 🛠️ Shipped **5 projects** across web, mobile, and desktop — React, Flask, Django, React Native
 - 🤖 Passionate about **backend development**, **REST APIs**, and **AI-assisted tooling**
