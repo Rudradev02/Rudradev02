@@ -18,8 +18,6 @@
 - 💼 Finished an internship at **Infolabz IT Services**
 - 📜 Certifications from **IBM, Google, Microsoft and Packt**
 - 🎯 Looking for a **Python / Full-Stack Developer** role
-- 🏆 Competing in **Smart India Hackathon 2026**
-- 🛒 On the side, I run **Smart Pick Finds**, an Amazon affiliate brand around smart home gadgets
 
 ## 🔭 What I'm working on right now
 
